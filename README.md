@@ -36,5 +36,3 @@ This is a high-performance automated stock trading bot built in Python using the
 
 ---
 
-## 🧠 Architecture Overview
-
